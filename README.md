@@ -198,6 +198,7 @@ show <class> <id>
 ```
 
 * Destroy
+
 > *Deletes an instance of a given class with a given ID.*
 > *Update the file.json*
 ```bash
